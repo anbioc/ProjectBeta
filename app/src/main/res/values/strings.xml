@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Projectβ</string>
+    <string name="view_detail">View Details</string>
+    <string name="hello_there">Hello There!</string>
+    <string name="items_processing">Items processing</string>
+    <string name="title_feature_main">Main</string>
+    <string name="title_feature_detail">Detail</string>
+</resources>
