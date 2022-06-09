@@ -6,7 +6,7 @@ import dagger.hilt.InstallIn
 import dagger.hilt.android.components.ViewModelComponent
 import projectbeta.amir.core.GetItemParams
 import projectbeta.amir.core.MainItemDomainEntity
-import projectbeta.amir.domain.GetItemsUseCase
+import projectbeta.amir.io.domain.GetItemsUseCase
 import projectbeta.amir.domain.UseCase
 
 @Module

@@ -35,7 +35,7 @@ class MainFragment : Fragment() {
                 initMainView(viewModel, findNavController())
             }
         }
-        viewModel.handleEvent(GetItems)
+        viewModel.eventReceiver.onNext(GetItems)
     }
 
     override fun onDestroy() {
