@@ -1,2 +1,2 @@
 # ProjectBeta
-Android sample developed using MVVM, Hilt, Rxjava.
+Android sample project developed using MVVM, Hilt, Rxjava.
